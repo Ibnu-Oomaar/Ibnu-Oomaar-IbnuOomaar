@@ -7,7 +7,7 @@ Hi 👋, I'm Ibnu Oomaar
 </h1>
 
 <h3 align="center">
-💻 Full Stack Developer | Backend Engineer | Building Scalable Web Applications
+💻 Full Stack Developer | Backend Engineer | Mern Stack Developer | Building Scalable Web Applications
 </h3>
 
 
@@ -285,35 +285,6 @@ Payment technology:
 ---
 
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibnu-Oomaar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibnu-Oomaar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-
-# 🔥 GitHub Streak
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibnu-Oomaar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
----
-
 # 🏆 GitHub Trophies
 
 
@@ -326,31 +297,6 @@ Payment technology:
 
 ---
 
-
-# 📈 GitHub Contribution Graph
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibnu-Oomaar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
----
-
-
-# 🐍 Snake Contribution Animation
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ibnu-Oomaar/Ibnu-Oomaar/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
----
 
 # 🤝 Connect With Me
 
